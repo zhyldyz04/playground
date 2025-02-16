@@ -3,4 +3,6 @@ Documentation
 This is playground for me to practice git
 
 
-Practicing git 
+Practicing git
+
+Lerning vi 
